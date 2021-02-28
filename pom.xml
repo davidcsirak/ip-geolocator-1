@@ -20,6 +20,7 @@
 		<project.build.outputEncoding>UTF-8</project.build.outputEncoding>
 		<maven.compiler.source>15</maven.compiler.source>
 		<maven.compiler.target>15</maven.compiler.target>
+		<jackson-databind.version>2.12.1</jackson-databind.version>
 		<mainClass>geolocator.GeoLocator</mainClass>
 	</properties>
 	<dependencies>
